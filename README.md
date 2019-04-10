@@ -1,0 +1,2 @@
+# wii
+Kodi addon
